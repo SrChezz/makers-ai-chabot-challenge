@@ -14,13 +14,13 @@
       </a>
       and
       <a
-        href="https://github.com/SrChezz"
+        href="https://github.com/theowex"
         class="ml-2 px-2 py-1 border border-gray-200 rounded-lg"
       >
         <i-tabler:brand-github
           class="icon hover:rotate-180 transition-transform"
         />
-        TheOwen
+        TheOwex
       </a>
     </div>
   </footer>

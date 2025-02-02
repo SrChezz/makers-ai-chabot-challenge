@@ -31,7 +31,7 @@ let gradioClient: any = null;
 onMounted(async () => {
   try {
     gradioClient = await Client.connect(
-      'https://c1179feac238f0d88e.gradio.live'
+      'https://6f489fa5eccdc539c8.gradio.live'
     );
   } catch (error) {
     console.error('Failed to connect to Gradio:', error);
