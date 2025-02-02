@@ -101,7 +101,9 @@ onMounted(async () => {
 // Manejar el envío del cuestionario
 const handleQuestionnaireSubmit = async (responses: any) => {
   try {
-    // Simular una petición POST para obtener recomendaciones
+    if (responses) {
+      console.log('test');
+    }
     const mockRecommendations = [
       {
         id: 1,
