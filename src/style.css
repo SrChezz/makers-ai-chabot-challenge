@@ -1,0 +1,8 @@
+@import 'tailwindcss';
+
+.icon {
+  display: inline-block;
+  vertical-align: -0.15rem;
+  margin-right: 0.225rem;
+  margin-left: 0.225rem;
+}
