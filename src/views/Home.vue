@@ -12,6 +12,14 @@
         conversational features, the ChatBot provides quick and accurate answers
         to customer questions.
       </p>
+      <p class="p-2 opacity-70 text-green-950">
+        You can try our <i-bxs:bot class="icon" /> ai chat right
+        <a
+          href="https://c1179feac238f0d88e.gradio.live/"
+          class="font-semibold text-green-900 underline"
+          >here</a
+        >
+      </p>
     </div>
   </div>
 </template>

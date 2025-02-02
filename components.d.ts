@@ -10,6 +10,7 @@ declare module 'vue' {
     Chat: typeof import('./src/components/Chat.vue')['default']
     Footer: typeof import('./src/components/Footer.vue')['default']
     HelloWorld: typeof import('./src/components/HelloWorld.vue')['default']
+    'IBxs:bot': typeof import('~icons/bxs/bot')['default']
     'IIx:closeSmall': typeof import('~icons/ix/close-small')['default']
     'ITabler:abacus': typeof import('~icons/tabler/abacus')['default']
     'ITabler:alertTriangleFilled': typeof import('~icons/tabler/alert-triangle-filled')['default']

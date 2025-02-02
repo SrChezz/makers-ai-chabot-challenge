@@ -8,6 +8,9 @@
         Enter your details to get sign in to you account
       </p>
 
+      <p class="text-green-800 my-2 w-">Demo email: test@gmail.com</p>
+      <p class="text-green-800 my-2 w-">Demo password: 123456</p>
+
       <div class="my-4">
         <input
           class="w-10/12 outline rounded-lg py-2 px-4 outline-gray-200"
