@@ -47,6 +47,7 @@
       </div>
     </section>
     <Footer />
+    <Chat />
   </div>
 </template>
 
