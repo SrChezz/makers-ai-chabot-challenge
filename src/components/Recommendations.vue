@@ -1,7 +1,7 @@
 <template>
   <!-- Side Menu -->
   <div
-    v-if="recommendedProducts.length > 0"
+    v-if="props.recommendedProducts.length > 0"
     class="sticky top-6 mx-auto w-full md:w-64 p-4"
   >
     <h2 class="text-xl font-semibold mb-4 text-green-900">
@@ -44,6 +44,7 @@ interface Props {
 }
 
 // Asignar los props con valores por defecto
+
 const props = withDefaults(defineProps<Props>(), {
   recommendedProducts: () => [],
 });
